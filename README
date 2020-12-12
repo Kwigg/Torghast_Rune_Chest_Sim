@@ -1,6 +1,7 @@
 WoW Shadowlands Torghast Rune Chest Simulator
 
-A friend asked me to recreate the rune-bound chests from Torghast as an offline game. The puzzle is to find the rune sequence to unlock the chains to open the chest. I didn't create a chest, so this game just involves finding the rune sequence to unlock all the chains.
+A friend asked me to recreate the rune-bound chests from Torghast as an offline game, and I decided to give it a go as a python and pygame learning exercise. (I miss my squiggly brackets.) 
+The puzzle is to find the rune sequence to unlock the chains to open the chest. I didn't create a chest, so this game just involves finding the rune sequence to unlock all the chains.
 
 The game itself is quite simple, as it's a variation of the classic puzzle where buttons automatically push others, and it self-jumbles as you progress.
 
